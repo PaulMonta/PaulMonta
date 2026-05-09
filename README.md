@@ -17,12 +17,12 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 📌 Projects
-### 1) Titanic Kaggle
+### 1) Titanic Kaggle Competition
 - **Description:** End-to-end ML workflow to predict passenger survival with feature engineering and model evaluation.
 - **Stack:** Python, Scikit-Learn, Jupyter
 - **Link:** [View project](https://github.com/PaulMonta/Titanic_Kaggle)
 
-### 2) Projet_FIT
+### 2) FIT Project
 - **Description:** Data-focused project covering preparation, analysis, and model experimentation on real-world-style inputs.
 - **Stack:** Python, SQL, Streamlit
 - **Link:** [View project](https://github.com/PaulMonta/Projet_FIT)
