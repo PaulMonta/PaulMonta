@@ -33,4 +33,4 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 
 ## 🤝 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/paul-monta](https://www.linkedin.com/in/paul-monta)
-- 📫 Email: [paulmonta@users.noreply.github.com](mailto:60228037+PaulMonta@users.noreply.github.com)
+- 📫 Email: [60228037+PaulMonta@users.noreply.github.com](mailto:60228037+PaulMonta@users.noreply.github.com)
