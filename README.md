@@ -32,5 +32,5 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulMonta&layout=compact&theme=default)
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle/)
-- 📫 Email: [your.email@domain.com](mailto:your.email@domain.com)
+- 💼 LinkedIn: [linkedin.com/in/paul-monta](https://www.linkedin.com/in/paul-monta)
+- 📫 Email: [paulmonta@users.noreply.github.com](mailto:60228037+PaulMonta@users.noreply.github.com)
