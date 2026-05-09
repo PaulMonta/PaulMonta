@@ -17,15 +17,15 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 📌 Projects
-### 1) Twitter Sentiment NLP
-- **Description:** NLP model to classify sentiment from tweets and surface trends for decision-making.
-- **Stack:** Python, Scikit-Learn, NLP
-- **Link:** [View project](https://github.com/PaulMonta/<twitter-sentiment-repo>)
+### 1) Titanic Kaggle
+- **Description:** End-to-end ML workflow to predict passenger survival with feature engineering and model evaluation.
+- **Stack:** Python, Scikit-Learn, Jupyter
+- **Link:** [View project](https://github.com/PaulMonta/Titanic_Kaggle)
 
-### 2) Real-Time ML API Template
-- **Description:** Production-ready template to serve a deep learning model with monitoring-ready endpoints.
-- **Stack:** PyTorch, FastAPI, Docker
-- **Link:** [View project](https://github.com/PaulMonta/<real-time-ml-api-repo>)
+### 2) Projet_FIT
+- **Description:** Data-focused project covering preparation, analysis, and model experimentation on real-world-style inputs.
+- **Stack:** Python, SQL, Streamlit
+- **Link:** [View project](https://github.com/PaulMonta/Projet_FIT)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulMonta&show_icons=true&theme=default)
