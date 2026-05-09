@@ -1,6 +1,6 @@
 # 👋 Welcome — I'm Paul Monta
 
-Data Scientist & AI Engineer in progress, building practical ML products from idea to deployment.
+Data Scientist & AI Engineer building practical ML products from idea to deployment.
 
 ## 🚀 About Me
 - 🎓 Engineering background + Le Wagon Data Science Bootcamp
@@ -33,4 +33,4 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 
 ## 🤝 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/paul-monta](https://www.linkedin.com/in/paul-monta)
-- 📫 Email: [60228037+PaulMonta@users.noreply.github.com](mailto:60228037+PaulMonta@users.noreply.github.com)
+- 📫 Email: [your.professional.email@example.com](mailto:your.professional.email@example.com)
