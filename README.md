@@ -33,4 +33,4 @@ Data Scientist & AI Engineer building practical ML products from idea to deploym
 
 ## 🤝 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/paul-monta](https://www.linkedin.com/in/paul-monta)
-- 📫 Email: [your.professional.email@example.com](mailto:your.professional.email@example.com)
+- 📫 Email: [paul.monta@etu.u-paris.fr](mailto:paul.monta@etu.u-paris.fr)
