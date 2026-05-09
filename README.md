@@ -20,17 +20,17 @@ Data Scientist & AI Engineer in progress, building practical ML products from id
 ### 1) Twitter Sentiment NLP
 - **Description:** NLP model to classify sentiment from tweets and surface trends for decision-making.
 - **Stack:** Python, Scikit-Learn, NLP
-- **Link:** [View project](#)
+- **Link:** [View project](https://github.com/PaulMonta/<twitter-sentiment-repo>)
 
 ### 2) Real-Time ML API Template
 - **Description:** Production-ready template to serve a deep learning model with monitoring-ready endpoints.
 - **Stack:** PyTorch, FastAPI, Docker
-- **Link:** [View project](#)
+- **Link:** [View project](https://github.com/PaulMonta/<real-time-ml-api-repo>)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulMonta&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulMonta&layout=compact&theme=default)
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle/)
+- 📫 Email: [your.email@domain.com](mailto:your.email@domain.com)
